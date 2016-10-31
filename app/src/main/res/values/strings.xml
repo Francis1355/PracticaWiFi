@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica WiFi</string>
+    <string name="txtTittle">WiFi</string>
+    <string name="btnEn">Habilitar</string>
+    <string name="btnDis">Inhabilitar</string>
+</resources>
+
+
+
